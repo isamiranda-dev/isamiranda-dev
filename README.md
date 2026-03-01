@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">Seja bem-vindo(a) ao meu perfil!
 Me chamo Isabelly e sou estudante do 3º ano de Desenvolvimento de Sistemas na ETEC de Carapicuíba.
