@@ -17,11 +17,13 @@
 ### Sobre mim 👋  
 Seja bem-vindo(a) ao meu perfil!
 
-Me chamo Isabelly, sou estudante do 3º ano de Desenvolvimento de Sistemas na ETEC de Carapicuíba e tenho como objetivo me tornar desenvolvedora Full Stack.
+Me chamo Isabelly, sou estudante do 3º ano de Desenvolvimento de Sistemas na ETEC de Carapicuíba e atualmente atuo como Jovem Aprendiz em Tecnologia no Bradesco, onde venho desenvolvendo conhecimentos sobre processos, programação e soluções voltadas ao ambiente corporativo.
 
-Tenho interesse em desenvolvimento web e na construção de soluções funcionais e bem estruturadas. Estudo e pratico HTML, CSS e JavaScript, além de lógica de programação, banco de dados, Python e C#, sempre buscando fortalecer minha base técnica e evoluir na criação de projetos.
+Tenho interesse em desenvolvimento Full Stack, desenvolvimento web e na criação de soluções que unam tecnologia, usabilidade e impacto real. Estou constantemente aprimorando meus conhecimentos em HTML, CSS, JavaScript, Python, C#, bancos de dados e lógica de programação, além de explorar novas ferramentas e tecnologias.
 
-Utilizo este espaço para compartilhar meu aprendizado, desenvolver projetos práticos e acompanhar minha evolução como desenvolvedora. Acredito na colaboração, na troca de conhecimento e no aprendizado contínuo dentro da comunidade dev.
+Aqui no GitHub compartilho projetos, estudos e experimentos que refletem minha evolução como desenvolvedora. Acredito que aprender na prática, colaborar com a comunidade e buscar evolução constante são os melhores caminhos para crescer na área da tecnologia.
+
+🚀 Sempre aberta a novos desafios, oportunidades e aprendizados.
 
   
   
